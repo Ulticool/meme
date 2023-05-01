@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    color:white
+}
+h2{
+    color:white
+}
+img{
+    width: 500px;  
+}
+div{
+    text-align: center;
+}
